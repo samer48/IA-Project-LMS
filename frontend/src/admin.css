@@ -1,0 +1,11 @@
+.admin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+}
+.admin .admin-items{
+    background-color: gray;
+    width: auto;
+    border: solid;
+}

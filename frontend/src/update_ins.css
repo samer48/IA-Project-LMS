@@ -1,0 +1,6 @@
+.update_ins{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: dimgray;
+}
